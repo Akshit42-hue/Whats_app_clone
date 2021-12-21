@@ -11,7 +11,7 @@ function Sidebar() {
     return (
         <div className = "sidebar">
             <div className = 'sidebar_header'>
-                <Avatar src="https://avatars.githubusercontent.com/u/59443454?v=4"/>
+                <Avatar src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"/>
                 <div className = 'sidebar_headerRight'>
                     <IconButton>
                     <DonutLargeIcon />
