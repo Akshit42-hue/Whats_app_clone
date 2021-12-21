@@ -1,0 +1,26 @@
+.app{
+  display:grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #dadbd3;
+}
+
+.app_body{
+  display: flex;
+  background-color: #ededed;
+  margin-top: -250px;
+  height: 95vh;
+  width: 70vw;
+  overflow: auto;
+  box-shadow: -1px 4px 20px -6px;
+  margin-bottom: -50px;
+}
+
+.app2{
+  background-color: #009688;
+  display: flex;
+  margin-top: -80px;
+  height: 150px;
+  width: 100%;
+  z-index: auto;
+}
